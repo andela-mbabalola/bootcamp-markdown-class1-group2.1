@@ -9,4 +9,4 @@ I'll briefly be summarizing what some of us shared.<br/>
 * Razaq talked to us about what he felt makes people fail, and believes that we do because we limit ourselves
 * Shelter let us know about the different ways we were harming the environment
 	+He suggested that human beings were akin to a virus
-* Kachi tallked to us about psychological disorders
+* Kachi tallked to us about psychological disorders 
