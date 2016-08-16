@@ -1,25 +1,33 @@
+#Programming using JavaScript(JS)
 
-##A function that checks if a number is prime or not
-def isPrime(number):
-	num = int(input("Enter a number: "))
+   ##About JS
 
-	if num > 1:
-		for i in range(2, num):
-			if(num % i)== 0:
-				print(i,"times", num//i, "is", num)
-				break
-			else:
-				print(num, "is a prime number")
+  JavaScript is the **de-facto language of the web**. Algorithms can be implemented in JS, just like any programming language.
+  its interpreted, and it uses some sort of weak typing, unlike strong and static typed languages like Java, C++ and C#.
+  JavaScript is more like python in some way. 
+
+  created by Micah 
 
 
-	else:
-		print(num,"is not a prime number")
+      http://msdn.com/javascript
 
 
-def main():
-	isPrime(number)
+ ##Functions
+   Functions are units of code that we give a name, and it does work for us. 
+
+   To define functions using JavaScript: we can use two methods:
+       *var myFunc = func(param){}
+       *function myFunc(param){}
+
+   A function can return values. or return nothing at all.
+
+   
+
+   Variables
+       containers for holding data values
+
+       var is a keyword used to declare variables in JS.
+       Syntax:
+          var variablename = [value];  //comment: we are declaring a variable and also initializing it at the same time here.
 
 
-
-if __name__ = '__main__':
-	isPrime(101);
