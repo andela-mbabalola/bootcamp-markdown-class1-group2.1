@@ -1,7 +1,7 @@
 
 #Programming using JavaScript(JS)
 
-   ##About JS
+##About JS
 
   JavaScript is the **de-facto language of the web**. Algorithms can be implemented in JS, just like any programming language.
   its interpreted, and it uses some sort of weak typing, unlike strong and static typed languages like Java, C++ and C#.
@@ -13,7 +13,7 @@
       http://msdn.com/javascript
 
 
- ##Functions
+##Functions
    Functions are units of code that we give a name, and it does work for us. 
 
    To define functions using JavaScript: we can use two methods:
@@ -59,6 +59,8 @@ We had a presentation yesterday, and shared some stuff that we each had interest
 * Shelter let us know about the different ways we were harming the environment
 	+ He suggested that human beings were akin to a virus
 * Kachi tallked to us about psychological disorders 
+
+
 
 ###COMMENT ON CHIDI OUR ANDELA INSTRUCTOR ![alt text](https://camo.githubusercontent.com/13c4e50d88df7178ae1882a203ed57b641674f94/68747470733a2f2f63646e2e7261776769742e636f6d2f73696e647265736f726875732f617765736f6d652f643733303566333864323966656437386661383536353265336136336531353464643865383832392f6d656469612f62616467652e737667)
 
