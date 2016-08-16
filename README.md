@@ -1,6 +1,5 @@
 
 
-
 ##COMMENT ON CHIDI OUR ANDELA INSTRUCTOR 
   had an awesome experience in andela yesterday.
   my comment goes out to our superb instructor Mr chidi. not only was an experience 
@@ -12,7 +11,7 @@
   next two weeks  At ANDELA BOOTCAMP
 
   LIST OF CHIDI'S SESSIONS
-  
+
     1. SELF INTRODUCTION
     2. INTO TO JAVASCRIPT
     3. FUNCTIONS 
