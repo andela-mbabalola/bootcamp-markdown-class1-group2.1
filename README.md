@@ -1,4 +1,3 @@
-
 # bootcamp-markdown-class1-group2.1
 ##Relationship Building
 This topic was introduced to us By: Chidi.<br>
@@ -30,6 +29,7 @@ The main importance of relationship building was been introduced and questions w
 *Believing that anyone can cultivate the habit of relationship building<br>
 
 *Cultivating a good communication skills
+
 # Group 2.1
 ## Comment on Mariam, our group coordinator. 
 ### Contributor, [Bayo Opesanya](https://github.com/OpesanyaAdebayo)
@@ -58,4 +58,4 @@ We had a presentation yesterday, and shared some stuff that we each had interest
 * Shelter let us know about the different ways we were harming the environment
 	+ He suggested that human beings were akin to a virus
 * Kachi tallked to us about psychological disorders 
-
+* Kachi tallked to us about psychological disorders 
