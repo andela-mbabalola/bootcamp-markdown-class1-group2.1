@@ -12,6 +12,7 @@
   next two weeks  At ANDELA BOOTCAMP
 
   ###LIST OF CHIDI'S SESSIONS
+  
     1. SELF INTRODUCTION
     2. INTO TO JAVASCRIPT
     3. fUNCTIONS 
@@ -20,5 +21,5 @@
   if i keep ontalking about chidi, i will not finish this comment, if you
   find your self in andela and you see an average Tall guy with the rickross
   kind of bears, thats him. or you can just checkout his profile on Linkedin [click here](https://www.linkedin.com/in/chidiebere)
-  
+
   AUTHOR [ ENAHO MURPHY](https://www.linkedin.com/in/enaho-murphy-81321150) 
