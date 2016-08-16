@@ -11,11 +11,11 @@
   with people. He did not just teach, he showed us in his actions. I am looking forward to the 
   next two weeks  At ANDELA BOOTCAMP
 
-  ###LIST OF CHIDI'S SESSIONS
+  LIST OF CHIDI'S SESSIONS
   
     1. SELF INTRODUCTION
     2. INTO TO JAVASCRIPT
-    3. fUNCTIONS 
+    3. FUNCTIONS 
     4. RELATIONSHIP BUILDING
 
   if i keep ontalking about chidi, i will not finish this comment, if you
