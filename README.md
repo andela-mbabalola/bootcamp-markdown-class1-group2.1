@@ -1,5 +1,6 @@
 
 
+
 ##COMMENT ON CHIDI OUR ANDELA INSTRUCTOR 
   had an awesome experience in andela yesterday. my comment goes out to our superb instructor Mr chidi. not only was an experience with him awesome, his confidence inspired us all to be better programmers. he came in with laughter on his face. and made us introduced ourselves. He talked about various topics pertaining computer science. the session on relationship building was great, I came to understand the superpowers you get from building  relationships with people. He did not just teach, he showed us in his actions. I am looking forward to the  next two weeks  At ANDELA BOOTCAMP
 
